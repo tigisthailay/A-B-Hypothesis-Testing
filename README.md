@@ -14,7 +14,7 @@ SmartAd ran this Ad campaign from 3-10 July 2020. The users that were presented 
 
 ## Data
 
-The data is available for download [here](https://drive.google.com/drive/folders/1bjvm5L13L1VMWN_hSYa-UDTXRE8QW4Rh/view?usp=sharing) and consists of the following columns
+The data is available for download [here](https://drive.google.com/drive/folders/1bjvm5L13L1VMWN_hSYa-UDTXRE8QW4Rh) and consists of the following columns
 
 * auction_id: the unique id of the online user who has been presented the BIO. In standard terminologies this is called an impression id. The user may see the BIO questionnaire but choose not to respond. In that case both the yes and no columns are zero.
 * experiment: which group the user belongs to - control or exposed.
